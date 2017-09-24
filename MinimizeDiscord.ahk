@@ -1,7 +1,7 @@
 SetTitleMatchMode, 3
 SetTitleMatchMode, Slow
 
-RunWait, "C:\Users\Jacky Ly\AppData\Local\Discord\Update.exe" "--processStart" "Discord.exe"
+RunWait, "%localappdata%\Discord\Update.exe" "--processStart" "Discord.exe"
 WinWaitClose, Discord Updater
 
 Loop {
