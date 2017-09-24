@@ -13,4 +13,3 @@ Ex. Press Ctrl+R and then type "shell:startup" to access the startup folder
 
 #### 4. Disable the Discord startup option in the tray icon.
 Ex. Right-click Discord and un-check the "Run Discord when my computer starts" option
-.
