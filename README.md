@@ -1,7 +1,7 @@
 # MinimizeDiscord
-Minimizes the Discord application on startup.
+## Minimizes the Discord application on startup.
 
-## Installation Instructions:
+### Installation Instructions:
 #### 1. Download the MinimizeDiscord.exe file and copy it to where your Discord installation is.
 Ex. C:\Users\%userprofile%\AppData\Local\Discord (replace %userprofile% with your username)
 
