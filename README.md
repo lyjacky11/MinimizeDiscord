@@ -1,6 +1,13 @@
 # MinimizeDiscord
 Minimizes the Discord application on startup.
 
+### Downloads:
+#### AHK Script:
+https://github.com/lyjacky11/MinimizeDiscord/raw/master/MinimizeDiscord.ahk
+
+#### Executable:
+https://github.com/lyjacky11/MinimizeDiscord/raw/master/MinimizeDiscord.exe
+
 ### Installation Instructions:
 #### 1. Download the MinimizeDiscord.exe file and copy it to where your Discord installation is.
 Ex. C:\Users\USERNAME\AppData\Local\Discord (replace USERNAME with your username)
